@@ -1,3 +1,26 @@
+#
+# 
+#
+# ipv4 hash:ip ipset
+#
+# [Townsville Electronics] 
+# (http://tesc.com.au) 
+# current IPs of band IP's
+#
+# Maintainer      : Geoff Sinclair
+# Maintainer URL  : http://tesc.com.au
+#
+# Source File Date: 
+#
+# Category        : brute force
+# Version         : 3
+#
+# This File Date  : 
+# Update Frequency:  
+# Aggregation     : none
+# Entries         : 800 unique IPs
+# These IPs trying access to /admin
+#
 1.179.146.156
 101.32.200.207
 102.36.168.40
@@ -774,3 +797,19 @@
 96.43.97.180
 45.76.220.20
 60.13.45.115
+181.193.108.242
+195.154.253.60
+96.43.97.180
+185.23.201.186
+185.47.62.230
+193.124.146.33
+125.160.115.94
+60.13.45.115
+185.162.184.34
+103.235.17.149
+45.76.220.20
+67.79.105.174
+103.235.17.136
+161.97.104.199
+209.126.11.127
+192.139.15.34
