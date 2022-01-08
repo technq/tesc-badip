@@ -7,15 +7,15 @@
 # (http://tesc.com.au) 
 # current IPs of band IP's
 #
-# Maintainer      : Geoff Sinclair
+# Maintainer      : Geoff_Sinclair
 # Maintainer URL  : http://tesc.com.au
 #
 # Source File Date: 
 #
-# Category        : brute force
+# Category        : brute_force
 # Version         : 3
 #
-# This File Date  : 2022-01-028
+# This File Date  : 2022-01-08
 # Update Frequency:  
 # Aggregation     : none
 # Entries         : 1550 unique IPs
