@@ -1,3 +1,26 @@
+#
+# 
+#
+# ipv4 hash:ip ipset
+#
+# [Television & Electronics SPC] 
+# (http://tesc.com.au) 
+# current IPs of bad IP's
+#
+# Maintainer      : Geoff_Sinclair
+# Maintainer URL  : http://tesc.com.au
+#
+# Confidence      : 8 
+#
+# Category        : brute_force
+# Version         : 3
+#
+# This File Date  : 2026-03-13
+# Update Frequency:  
+# Aggregation     : none
+# Entries         : 312 unique IPs
+# These IPs are trying to inject SQL
+#
 102.0.22.196 
 102.164.97.132 
 102.203.196.4 
@@ -310,3 +333,4 @@
 95.5.123.208 
 95.70.131.164 
 95.70.138.199 
+
